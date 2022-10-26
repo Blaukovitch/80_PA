@@ -5,4 +5,9 @@ Sony DADC AG SecuROM
 **PAUnlock page**\
 https://cracklab.team/PAunlock/
 \
-80_PA.exe
+
+
+| execute       | Minimal OS   |
+| ------------- |:-------------:
+| 80_PA.exe     | XP           |
+| 80_PA.apk     | Ice Cream    |
