@@ -38,3 +38,6 @@ https://cracklab.team/PAunlock/
 | 80_PA.exe     | XP           |
 | 80_PA.apk     | Ice Cream    |
 
+## Tiberium reversing
+All materials published as part of **Tiberium reversing** - full stack of articles (xakep.ru), cracking videos (YOUTUBE) and C/C++/ASM coding tools. 
+(C) *2011-2022*
