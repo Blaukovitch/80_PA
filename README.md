@@ -14,6 +14,9 @@
 * Pro Evolution Soccer
 * Ys Foliage Ocean in Celceta
 * The Sims 3
+* CellFactor: Psychokinetic Wars
+* Cody Pops the Case
+* TRON: Evolution
 and lot of others.
 
 In 2019, all of legal users the *TRON: Evolution* encountered a problem activating the game, due to the fact that Sony has disabled the activation servers. 
@@ -40,4 +43,4 @@ https://cracklab.team/PAunlock/
 
 ## Tiberium reversing
 All materials published as part of **Tiberium reversing** - full stack of articles (xakep.ru), cracking videos (YOUTUBE) and C/C++/ASM coding tools. 
-(C) *2011-2022*
+(C) *2011-2023*
