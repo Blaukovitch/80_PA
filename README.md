@@ -29,9 +29,22 @@ This is the result of the 386 Team's successful and true painstaking work agains
 
 The last version of SecuROM 8.13 was released in 2014 after DENUVO publish, and protected games from Heluo Studio. It is the only and unsuccessful attempt by SONY DADC AG to counter 80_PA, when changes were made to hide the operation of the RSA algorithm and DES keys.
 
+## Linux (Wine) Platform
+Install **mfc42** first https://github.com/Blaukovitch/80_PA/issues/2    
+```
+sudo add-apt-repository ppa:ubuntu-wine/ppa
+sudo apt-get update && sudo apt-get upgrade
+winetricks mfc42
+```
 
-![80pa](t80.PNG)\
+## ANDROID Platform
+official Stores at 2025:  
+🅰️ [Amazon](https://www.amazon.com/gp/product/B0DQZWXQQ8)  
+®️ [ruStore](https://www.rustore.ru/catalog/app/com.lab80_pa)  
+
+
 ## PAUnlock page
+![80pa](t80.PNG)\
 https://cracklab.team/PAunlock/
 
 
@@ -43,4 +56,4 @@ https://cracklab.team/PAunlock/
 
 ## Tiberium reversing
 All materials published as part of **Tiberium reversing** - full stack of articles (xakep.ru), cracking videos (YOUTUBE) and C/C++/ASM coding tools. 
-(C) *2011-2024*
+(C) *2011-2025*
